@@ -1,3 +1,3 @@
 # git hub first text
-## gitd push
+## git push
 
